@@ -1,0 +1,95 @@
+ body{
+
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      
+      
+} 
+.button{
+   
+    background-image: linear-gradient(coral,orange);
+    color: white;
+    padding:10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 700;
+}
+.introp{
+    margin-bottom: 50px;
+text-align: justify;
+margin-top: 50px;
+}
+.halfwidth{
+    width: 40%;
+    
+}
+
+.imageintro{
+    height: 600px; 
+    width: 600px;
+    margin-left: 150px;
+}
+.flexcontainer{
+    display: flex;
+}
+div{
+    margin-right: 20px;
+    margin-left: 50px;
+}
+h1{
+    color:orangered;
+    font-size: 50px;
+}
+.divborder{
+   
+    border-left:5px solid orange;
+    padding-left: 5px;
+    
+}
+.center{
+    text-align: center;
+}
+.icon{
+    height: 100px;
+    width: 100px;
+    align-items: center;
+}
+#skills{
+    background-color: rgba(127, 255, 212, 0.498);
+    padding: 20px;
+    border-radius: 20px;
+    width: 30%;
+}
+#education{
+    background-color: bisque;
+    padding: 20px;
+    border-radius: 20px;
+    width: 30%;
+}
+#tool{
+    background-color: rgba(128, 128, 128, 0.279);
+    padding: 20px;
+    border-radius: 20px;
+    width: 30%;
+}
+.underline{
+    text-decoration: underline;
+}
+.margintop{
+    margin-top: 100px;
+}
+
+
+.img{
+    height: 400px;
+    width: 400px;
+}
+.marginleft{
+margin-left: 300px;
+}
+.footer{
+    background-color: rgb(240, 210, 173);
+    height: 100px;
+text-align: center;
+}
